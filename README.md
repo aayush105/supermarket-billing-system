@@ -120,4 +120,4 @@ The Cashier UI provides the following functionalities:
 ![Cashier UI](cashier.png)
 *Cashier UI for creating bills, searching bills, viewing sales, and product information.*
 
-For any issues or inquiries, please contact [your_email@example.com](mailto:sthaaayush105@gmail.com).
+For any issues or inquiries, please contact [sthaaayush105@gmail.com](mailto:sthaaayush105@gmail.com).
